@@ -1,8 +1,8 @@
 # 🧪 Automação de Testes E2E - ServeRest
 
 [![Cypress](https://img.shields.io/badge/Cypress-15.16.0-17202C?style=flat&logo=cypress)](https://www.cypress.io/)
-[![Tests](https://img.shields.io/badge/Tests-20%20Passing-2ECC71?style=flat)](https://github.com/FelipeConstancio/UNICV_Automacao-projeto_Automacao)
-[![Status](https://img.shields.io/badge/Status-100%25%20Passing-success)](https://github.com/FelipeConstancio/UNICV_Automacao-projeto_Automacao)
+[![Tests](https://img.shields.io/badge/Tests-20%20Passing-2ECC71?style=flat)](https://github.com/scapinellobldooo/automacao_cypress)
+[![Status](https://img.shields.io/badge/Status-100%25%20Passing-success)](https://github.com/scapinellobldooo/automacao_cypress)
 
 Projeto de automação de testes end-to-end (E2E) para o sistema ServeRest, desenvolvido utilizando o framework Cypress. Esta suíte de testes valida as principais funcionalidades de um e-commerce, incluindo autenticação, cadastro de usuários, busca de produtos e gestão administrativa.
 
@@ -80,8 +80,8 @@ git --version
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/FelipeConstancio/UNICV_Automacao-projeto_Automacao.git
-cd UNICV_Automacao-projeto_Automacao
+git clone https://github.com/scapinellobldooo/automacao_cypress.git
+cd automacao_cypress
 ```
 
 ### 2. Instale as Dependências
@@ -156,7 +156,7 @@ npx cypress run --config video=false
 ## 📁 Estrutura do Projeto
 
 ```
-UNICV_Automacao-projeto_Automacao/
+automacao_cypress/
 ├── cypress/
 │   ├── e2e/                          # Arquivos de teste E2E
 │   │   ├── test_01_login_adm.cy.js
@@ -309,5 +309,5 @@ Este projeto foi desenvolvido como parte do curso da UNICV, com o objetivo de ap
 
 ---
 
-**Última Atualização:** 02/06/2026  
+**Última Atualização:** 09/06/2026  
 **Versão:** 1.0.0
